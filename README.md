@@ -18,4 +18,5 @@ Model Performance
 Tech Stack
 - Programming Language - Python - SQl
 - Libraries - Pandas NumPy Scikit-Learn Matplotlib Seaborn
-- Environment - Google Colab 
+- Environment - Google Colab and Jupyter
+  
